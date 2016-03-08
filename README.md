@@ -1,2 +1,2 @@
-# Flask-Web-Study
+# Study Flask
 Learn to use Flask
